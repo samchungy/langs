@@ -16,7 +16,7 @@ on:
 
 jobs:
   npm-publish:
-    uses: ast-grep/langs/.github/workflows/release.yml@main
+    uses: samchungy/langs/.github/workflows/release.yml@main
     with:
       directory: packages/${{inputs.package-name}}
       dry-run: ${{ inputs.dry-run }}
