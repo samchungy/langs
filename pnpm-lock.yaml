@@ -28,8 +28,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-angular:
         specifier: 0.8.2
         version: 0.8.2(tree-sitter@0.21.1)
@@ -44,8 +44,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-bash:
         specifier: 0.25.1
         version: 0.25.1
@@ -60,8 +60,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-c:
         specifier: 0.24.1
         version: 0.24.1
@@ -76,8 +76,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -92,8 +92,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-c-sharp:
         specifier: 0.23.1
         version: 0.23.1(tree-sitter@0.21.1)
@@ -108,8 +108,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -124,8 +124,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -140,8 +140,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -156,8 +156,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -172,8 +172,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -188,8 +188,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -204,8 +204,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -220,8 +220,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -236,8 +236,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -252,8 +252,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -268,8 +268,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       '@tree-sitter-grammars/tree-sitter-lua':
         specifier: 0.4.1
         version: 0.4.1
@@ -284,8 +284,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       '@tree-sitter-grammars/tree-sitter-markdown':
         specifier: 0.3.2
         version: 0.3.2(tree-sitter@0.21.1)
@@ -300,8 +300,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -316,8 +316,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -332,8 +332,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -348,8 +348,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -364,8 +364,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -380,8 +380,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       '@derekstride/tree-sitter-sql':
         specifier: 0.3.11
         version: 0.3.11(tree-sitter@0.21.1)
@@ -396,8 +396,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -428,8 +428,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -444,8 +444,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       tree-sitter-cli:
         specifier: 0.25.8
         version: 0.25.8
@@ -460,8 +460,8 @@ importers:
         version: 0.0.5
     devDependencies:
       '@ast-grep/nursery':
-        specifier: 0.0.8
-        version: 0.0.8
+        specifier: workspace:*
+        version: link:../../scripts/nursery
       '@tree-sitter-grammars/tree-sitter-yaml':
         specifier: 0.7.1
         version: 0.7.1
@@ -515,20 +515,8 @@ packages:
     cpu: [arm64]
     os: [darwin]
 
-  '@ast-grep/napi-darwin-arm64@0.40.0':
-    resolution: {integrity: sha512-ZMjl5yLhKjxdwbqEEdMizgQdWH2NrWsM6Px+JuGErgCDe6Aedq9yurEPV7veybGdLVJQhOah6htlSflXxjHnYA==}
-    engines: {node: '>= 10'}
-    cpu: [arm64]
-    os: [darwin]
-
   '@ast-grep/napi-darwin-x64@0.39.9':
     resolution: {integrity: sha512-7QuQNFwcVj71hDAMBErF+mVq2h92vUdHLKa/vq58HdRpix5G3DZqcTKoFjwhCNzc2wsNRAjV+BiIR01znQSxLA==}
-    engines: {node: '>= 10'}
-    cpu: [x64]
-    os: [darwin]
-
-  '@ast-grep/napi-darwin-x64@0.40.0':
-    resolution: {integrity: sha512-f9Ol5oQKNRMBkvDtzBK1WiNn2/3eejF2Pn9xwTj7PhXuSFseedOspPYllxQo0gbwUlw/DJqGFTce/jarhR/rBw==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [darwin]
@@ -539,20 +527,8 @@ packages:
     cpu: [arm64]
     os: [linux]
 
-  '@ast-grep/napi-linux-arm64-gnu@0.40.0':
-    resolution: {integrity: sha512-+tO+VW5GDhT9jGkKOK+3b8+ohKjC98WTzn7wSskd/myyhK3oYL1WTKqCm07WSYBZOJvb3z+WaX+wOUrc4bvtyQ==}
-    engines: {node: '>= 10'}
-    cpu: [arm64]
-    os: [linux]
-
   '@ast-grep/napi-linux-arm64-musl@0.39.9':
     resolution: {integrity: sha512-U9KVohyburVGEWiiREFq+iTxdMdSbRyXL+yzCVvGPmLPW4Ca4zpX9Cret4jCJBp8dljSIK0C7txXAc7fM+6rag==}
-    engines: {node: '>= 10'}
-    cpu: [arm64]
-    os: [linux]
-
-  '@ast-grep/napi-linux-arm64-musl@0.40.0':
-    resolution: {integrity: sha512-MS9qalLRjUnF2PCzuTKTvCMVSORYHxxe3Qa0+SSaVULsXRBmuy5C/b1FeWwMFnwNnC0uie3VDet31Zujwi8q6A==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
@@ -563,20 +539,8 @@ packages:
     cpu: [x64]
     os: [linux]
 
-  '@ast-grep/napi-linux-x64-gnu@0.40.0':
-    resolution: {integrity: sha512-BeHZVMNXhM3WV3XE2yghO0fRxhMOt8BTN972p5piYEQUvKeSHmS8oeGcs6Ahgx5znBclqqqq37ZfioYANiTqJA==}
-    engines: {node: '>= 10'}
-    cpu: [x64]
-    os: [linux]
-
   '@ast-grep/napi-linux-x64-musl@0.39.9':
     resolution: {integrity: sha512-KutzZSMhHP3P43nQ+kNSbuiDaqkCcdqOcXLnq28MRvS+qwvW+01dJ8eWRlpMJC9vCJmaJAZfI7xkNSp74WkdxA==}
-    engines: {node: '>= 10'}
-    cpu: [x64]
-    os: [linux]
-
-  '@ast-grep/napi-linux-x64-musl@0.40.0':
-    resolution: {integrity: sha512-rG1YujF7O+lszX8fd5u6qkFTuv4FwHXjWvt1CCvCxXwQLSY96LaCW88oVKg7WoEYQh54y++Fk57F+Wh9Gv9nVQ==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
@@ -587,20 +551,8 @@ packages:
     cpu: [arm64]
     os: [win32]
 
-  '@ast-grep/napi-win32-arm64-msvc@0.40.0':
-    resolution: {integrity: sha512-9SqmnQqd4zTEUk6yx0TuW2ycZZs2+e569O/R0QnhSiQNpgwiJCYOe/yPS0BC9HkiaozQm6jjAcasWpFtz/dp+w==}
-    engines: {node: '>= 10'}
-    cpu: [arm64]
-    os: [win32]
-
   '@ast-grep/napi-win32-ia32-msvc@0.39.9':
     resolution: {integrity: sha512-n18Dqtc7O5q8ZM9gBNkvLd+ajdjLNraw4ZoIcHelI7TnTvh1m6zR3tUuHNxPhL+IJfdKx3ne7ATKlEeiSlMn4g==}
-    engines: {node: '>= 10'}
-    cpu: [ia32]
-    os: [win32]
-
-  '@ast-grep/napi-win32-ia32-msvc@0.40.0':
-    resolution: {integrity: sha512-0JkdBZi5l9vZhGEO38A1way0LmLRDU5Vos6MXrLIOVkymmzDTDlCdY394J1LMmmsfwWcyJg6J7Yv2dw41MCxDQ==}
     engines: {node: '>= 10'}
     cpu: [ia32]
     os: [win32]
@@ -611,22 +563,9 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@ast-grep/napi-win32-x64-msvc@0.40.0':
-    resolution: {integrity: sha512-Hk2IwfPqMFGZt5SRxsoWmGLxBXxprow4LRp1eG6V8EEiJCNHxZ9ZiEaIc5bNvMDBjHVSnqZAXT22dROhrcSKQg==}
-    engines: {node: '>= 10'}
-    cpu: [x64]
-    os: [win32]
-
   '@ast-grep/napi@0.39.9':
     resolution: {integrity: sha512-qtLLQq1a3isK0iaq0Drl7Qt4PqeyjTrpFxNdA/20O/jYkGiA/oJA8DLMn1bzczsfjlUohe4dg39bpeAqG02uvA==}
     engines: {node: '>= 10'}
-
-  '@ast-grep/napi@0.40.0':
-    resolution: {integrity: sha512-tq6nO/8KwUF/mHuk1ECaAOSOlz2OB/PmygnvprJzyAHGRVzdcffblaOOWe90M9sGz5MAasXoF+PTcayQj9TKKA==}
-    engines: {node: '>= 10'}
-
-  '@ast-grep/nursery@0.0.8':
-    resolution: {integrity: sha512-0TSC9C0yzMNPPaJJhRbB3hd/mNoXUywENhj+HZzfDFN5qJ7N5syTSTX7MAppYYM3XKcOWG61em3WUdPO8r1AGQ==}
 
   '@ast-grep/setup-lang@0.0.5':
     resolution: {integrity: sha512-DQdS6xaNtkqbrw6vblY2vOzfYCIj12261IE0e9pG3lx5ll+hFaXH+01UXXPkhMVHX6AGMrwVCzawEmFmko/DIQ==}
@@ -1418,55 +1357,28 @@ snapshots:
   '@ast-grep/napi-darwin-arm64@0.39.9':
     optional: true
 
-  '@ast-grep/napi-darwin-arm64@0.40.0':
-    optional: true
-
   '@ast-grep/napi-darwin-x64@0.39.9':
-    optional: true
-
-  '@ast-grep/napi-darwin-x64@0.40.0':
     optional: true
 
   '@ast-grep/napi-linux-arm64-gnu@0.39.9':
     optional: true
 
-  '@ast-grep/napi-linux-arm64-gnu@0.40.0':
-    optional: true
-
   '@ast-grep/napi-linux-arm64-musl@0.39.9':
-    optional: true
-
-  '@ast-grep/napi-linux-arm64-musl@0.40.0':
     optional: true
 
   '@ast-grep/napi-linux-x64-gnu@0.39.9':
     optional: true
 
-  '@ast-grep/napi-linux-x64-gnu@0.40.0':
-    optional: true
-
   '@ast-grep/napi-linux-x64-musl@0.39.9':
-    optional: true
-
-  '@ast-grep/napi-linux-x64-musl@0.40.0':
     optional: true
 
   '@ast-grep/napi-win32-arm64-msvc@0.39.9':
     optional: true
 
-  '@ast-grep/napi-win32-arm64-msvc@0.40.0':
-    optional: true
-
   '@ast-grep/napi-win32-ia32-msvc@0.39.9':
     optional: true
 
-  '@ast-grep/napi-win32-ia32-msvc@0.40.0':
-    optional: true
-
   '@ast-grep/napi-win32-x64-msvc@0.39.9':
-    optional: true
-
-  '@ast-grep/napi-win32-x64-msvc@0.40.0':
     optional: true
 
   '@ast-grep/napi@0.39.9':
@@ -1480,22 +1392,6 @@ snapshots:
       '@ast-grep/napi-win32-arm64-msvc': 0.39.9
       '@ast-grep/napi-win32-ia32-msvc': 0.39.9
       '@ast-grep/napi-win32-x64-msvc': 0.39.9
-
-  '@ast-grep/napi@0.40.0':
-    optionalDependencies:
-      '@ast-grep/napi-darwin-arm64': 0.40.0
-      '@ast-grep/napi-darwin-x64': 0.40.0
-      '@ast-grep/napi-linux-arm64-gnu': 0.40.0
-      '@ast-grep/napi-linux-arm64-musl': 0.40.0
-      '@ast-grep/napi-linux-x64-gnu': 0.40.0
-      '@ast-grep/napi-linux-x64-musl': 0.40.0
-      '@ast-grep/napi-win32-arm64-msvc': 0.40.0
-      '@ast-grep/napi-win32-ia32-msvc': 0.40.0
-      '@ast-grep/napi-win32-x64-msvc': 0.40.0
-
-  '@ast-grep/nursery@0.0.8':
-    dependencies:
-      '@ast-grep/napi': 0.40.0
 
   '@ast-grep/setup-lang@0.0.5': {}
 
